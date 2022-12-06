@@ -1,3 +1,8 @@
+// JOSHUA MEREDORES
+// BSIT 1F
+// RELATIONAL OPERATORS
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
