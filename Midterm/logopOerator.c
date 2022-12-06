@@ -1,3 +1,8 @@
+// JOSHUA MEREDORES
+// BSIT IF
+// LOGICAL OPERATORS
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
