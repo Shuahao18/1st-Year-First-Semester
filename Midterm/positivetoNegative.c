@@ -1,3 +1,8 @@
+// JOSHUA MEREDORES
+//BSIT 1F
+// POSTIVE TO NEGATIVE NUMBERS
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
