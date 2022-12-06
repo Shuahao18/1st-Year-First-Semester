@@ -1,5 +1,7 @@
 //Activity 3/Quiz 1
 //Meredores Joshua U.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
