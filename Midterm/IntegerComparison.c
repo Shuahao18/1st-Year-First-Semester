@@ -1,4 +1,7 @@
+// JOSHUA MEREDORES
 // Integer Comparison
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
