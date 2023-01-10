@@ -11,7 +11,7 @@
 
 // H height of the triangle
 // A for area
-float b, h,A;
+float b, h, A;
 
 int main()
 {
